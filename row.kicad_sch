@@ -329,7 +329,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "166460fc-43cd-44f2-b053-f188b6595caf")
-		(property "Reference" "F11"
+		(property "Reference" "F17"
 			(at 72.39 54.61 90)
 			(effects
 				(font
@@ -470,7 +470,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b3b0f73-b877-4a47-9482-bc93585a02ef")
-		(property "Reference" "TP18"
+		(property "Reference" "TP34"
 			(at 60.198 55.88 90)
 			(effects
 				(font
@@ -599,7 +599,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3463e9a8-0712-467c-a48c-e1c0582a5a4f")
-		(property "Reference" "TP3"
+		(property "Reference" "TP15"
 			(at 60.198 45.72 90)
 			(effects
 				(font
